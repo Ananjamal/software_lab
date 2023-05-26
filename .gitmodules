@@ -1,3 +1,6 @@
 [submodule "iughousing_Version_2_Admin"]
 	path = iughousing_Version_2_Admin
 	url = https://github.com/Ananjamal/software_project.git
+[submodule "iughousing_Version_3_student"]
+	path = iughousing_Version_3_student
+	url = https://github.com/Ananjamal/software_project.git
